@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-image: url("https://img.icons8.com/wired/64/000000/marketplace-hub.png");
+	background-size: contain;
+	background-size: 40px 40px;
+    background-size: 40% 40%;
+	background-attachment:fixed;
+
+}
+
+.form-register{
+	background: #E0F8F1;
+	width: 400px;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'candara';
+	color: black;
+}
+
+.form-register h1 {
+	font-size: 40px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-family: 'candara';
+}
+
+.controls {
+	width: 100%;
+	text-align: center;
+	font-family: 'candara';
+}
+
+.form-register p{
+	text-align: center;	
+	font-family: 'candara';
+}
+
+.form-register .botons {
+	width: 100%;
+	background: #A9E2F3;
+	padding: 10px;
+	font-family: 'candara';
+}
+
+.form-register .img{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 20vh;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'candara';
+}
